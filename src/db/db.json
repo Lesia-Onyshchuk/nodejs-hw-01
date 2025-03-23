@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "91c3a649-b8cd-4d93-9e48-be12321b69a3",
+    "name": "Julius Goodwin",
+    "phone": "(887) 508-3298 x28659",
+    "email": "Izaiah27@hotmail.com",
+    "job": "District Quality Producer"
+  },
+  {
+    "id": "f8931f1c-d93f-4304-bf37-e02ab6b4b18f",
+    "name": "Mrs. Virginia Schuster",
+    "phone": "1-602-471-9123 x511",
+    "email": "Allan.Dicki94@gmail.com",
+    "job": "Forward Creative Supervisor"
+  },
+  {
+    "id": "a35bb50f-3975-450c-a4de-6cbd1c663b09",
+    "name": "Julia Huels",
+    "phone": "(305) 463-9546 x914",
+    "email": "Ayla_Haley11@hotmail.com",
+    "job": "Chief Factors Developer"
+  },
+  {
+    "id": "f303664c-a5be-4d20-beed-712c50815d33",
+    "name": "Ora Lang-Bayer",
+    "phone": "1-729-530-2687 x6043",
+    "email": "Kaya.Hoeger@gmail.com",
+    "job": "Internal Paradigm Technician"
+  }
+]
